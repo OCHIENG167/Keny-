@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml" is_dbot="true" collection="false">
+9<xml xmlns="https://developers.google.com/blockly/xml" is_dbot="true" collection="false">
   <variables>
     <variable id="Gm4q3W58^moakYv0*8U*">stake1</variable>
     <variable id="9dQ4tsj$@`vWpu;:2{K=">Stake</variable>
@@ -752,7 +752,7 @@
                                     <field name="TEXT"></field>
                                   </shadow>
                                   <block type="text" id="|0r,rn%dpAV#vkAZ*SaE" collapsed="true">
-                                    <field name="TEXT">ENHANCED AUTO C4 VOLT 🇬🇧 3 🇬🇧 AI PREMIUM 🤖 [By: CEO-Freddy: +254794-432-921]</field>
+                                  </field>
                                   </block>
                                 </value>
                                 <next>
@@ -882,7 +882,7 @@
                                         <value name="TELEGRAM_CHAT_ID">
                                           <shadow type="text" id="NOko?6lu#4e+ebce8I-m">
                                             <field name="TEXT">5622115596</field>
-                                          </shadow>
+                                          </field>
                                         </value>
                                         <value name="TELEGRAM_MESSAGE">
                                           <shadow type="text" id="D?8,fT#nQm/[v~4RE2?S">
